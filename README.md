@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Noel Martial Nguemechieu
 - 👀 I’m interested in electrical and computer Engenieuring
 - 🌱 I’m currently learning  and working as Devops and software engenieur
-- 💞️ I’m looking to collaborate on large projects
+
 - - 📫 How to reach me   nguemechieu@live.com
 
 <!---
